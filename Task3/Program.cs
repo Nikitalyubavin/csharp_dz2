@@ -4,9 +4,6 @@
 //               7 -> да
 //               1 -> нет
 
-//Console.Write("Введите цифру, обозначающую день недели: ");
-//int a = int.Parse(Console.ReadLine());
-
 int a;
 
 while (true)
